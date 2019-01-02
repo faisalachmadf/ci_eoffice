@@ -11,3 +11,6 @@ Rabu, 2 Januari 2018 :
 - Bagian (Model, View, Controller)
 - Subbagian (Model, View, Controller)
 
+Rabu, 2 Januari 2018 :
+- pengisian data profile
+

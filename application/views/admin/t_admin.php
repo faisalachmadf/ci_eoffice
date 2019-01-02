@@ -84,7 +84,7 @@ foreach($js as $file){
             <div class="menu_section">
               <h3>Pengaturan</h3>
               <ul class="nav side-menu">
-                <li><a href="<?= base_url() ?>admin/pengaturan/Profile"><i class="fa fa-user"></i> Data Profile</a></li>
+                <li><a href="<?php echo base_url();?>admin/user/profile"><i class="fa fa-user"></i> Data Profile</a></li>
                 
                  
                 <li><a><i class="fa fa-windows"></i> Data Master <span class="fa fa-chevron-down"></span></a>

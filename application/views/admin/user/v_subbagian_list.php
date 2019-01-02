@@ -28,7 +28,7 @@
         <thead>
           <tr>
             <th style="width: 1px;" class="text-center">&nbsp;</th>
-            <th>Nama Sub Bagian</th>
+            <th>Nama Bagian</th>
             <th>Nama Sub Bagian</th>
             <td>&nbsp;</td>
           </tr>
