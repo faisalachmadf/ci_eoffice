@@ -1,0 +1,13 @@
+nama db : ci_eoffice
+link dokumentasi CI : https://codeigniter.com/user_guide/general/urls.html?highlight=htaccess
+link template : https://colorlib.com/polygon/gentelella/invoice.html
+link bootstrap : https://getbootstrap.com/docs/4.1/components/modal/
+
+History :
+
+Rabu, 2 Januari 2018 :
+- template (perubahan menu)
+- myscript.js (penambahan sweetalert)
+- Bagian (Model, View, Controller)
+- Subbagian (Model, View, Controller)
+
